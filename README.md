@@ -2,104 +2,150 @@
 
 # 👋 Hi, I'm Muhammad Taha
 
-### 🤖 AI Automation Specialist • 🐍 Python Developer • ⚙️ Workflow Engineer
+### 🤖 AI Automation Specialist | 🐍 Python Developer | ⚙️ Workflow Engineer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mtahaarshad03-bit&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mtahaarshad03-bit?label=Followers&style=flat-square&color=00D9FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Status" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Automation+Systems;Designing+AI+Powered+Workflows;Turning+Ideas+Into+Smart+Solutions" />
 
-<p>
-  <a href="https://github.com/mtahaarshad03-bit">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-taha-807a39404/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/mtahaarshad03-bit">
+  <img src="https://img.shields.io/badge/GitHub-mtahaarshad03--bit-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-taha-807a39404/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mtahaarshad03-bit&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" />
+
+<img src="https://img.shields.io/github/followers/mtahaarshad03-bit?label=FOLLOWERS&style=flat-square&color=00D9FF" />
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00C853?style=flat-square" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm an ambitious **Artificial Intelligence student and AI Automation Specialist** passionate about building intelligent systems that help businesses automate repetitive processes and improve productivity.
+I'm an ambitious **Artificial Intelligence student and AI Automation Specialist** passionate about building intelligent systems that help businesses automate repetitive processes, connect different tools, and improve productivity.
 
-* 🤖 Building **AI-powered automation workflows and intelligent agents**
-* ⚙️ Designing end-to-end workflows using **n8n**
-* 🐍 Developing automation and data-driven solutions with **Python**
-* 🗄️ Working with **Supabase, SQL, APIs, and databases**
-* 📊 Exploring **Data Analytics, Machine Learning, and AI Engineering**
-* 👨‍💻 Experienced in **Technical Team Leadership and collaborative project development**
-* 🎨 Also skilled in **Graphic Design, Video Editing, and Digital Content Creation**
-* 📍 Based in **Sargodha, Pakistan**
+### 💡 What I Do
 
-> **My goal:** Build intelligent systems that automate work, connect tools, and turn ideas into scalable digital solutions.
+🤖 Build **AI-powered automation workflows**
 
----
+⚙️ Design intelligent systems using **n8n**
 
-## 🛠️ Tech Stack
+🐍 Develop automation solutions using **Python**
 
-### 🤖 AI & Programming
+🔗 Connect applications through **APIs, Webhooks & Integrations**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+🗄️ Work with **Supabase, SQL & Databases**
 
-`Python` • `Agentic AI` • `Machine Learning` • `Data Analytics` • `AI Automation`
+📊 Explore **Data Analytics, Machine Learning & AI**
+
+🌐 Build modern web-based automation solutions
+
+🎨 Create professional digital designs and visual content
 
 ---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 🤖 Programming & AI
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-Intelligent_Agents-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine_Learning-AI_Models-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Analytics-Insights-00C853?style=for-the-badge" />
+
+<br/><br/>
 
 ### ⚙️ Automation & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=supabase,postgres" />
 
-`n8n Workflow Automation` • `Supabase` • `SQL` • `REST APIs` • `Google Sheets` • `Webhooks` • `Database Integration`
+<br/><br/>
+
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<img src="https://img.shields.io/badge/API-Integration-00D9FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Webhooks-Automation-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Google_Sheets-Automation-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+
+<br/><br/>
+
+### 💻 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br/><br/>
+
+### 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=github,vscode,git" />
+
+</div>
 
 ---
 
-### 💻 Development Tools
+# ⚡ Core Expertise
 
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,html,css,js" />
-</p>
+<div align="center">
 
-`GitHub` • `Visual Studio Code` • `HTML` • `CSS` • `JavaScript` • `Google Workspace`
+| 🤖 AI Automation | ⚙️ Workflow Engineering | 🐍 Python Development |
+|:---:|:---:|:---:|
+| AI Agents | n8n Automation | Automation Scripts |
+| Intelligent Systems | API Integration | Data Processing |
+| Chatbot Integration | Webhooks | Backend Logic |
 
----
+| 🗄️ Database Systems | 📊 Data Analytics | 🌐 Web Development |
+|:---:|:---:|:---:|
+| Supabase | Pandas | HTML |
+| SQL | Data Processing | CSS |
+| Google Sheets | Visualization | JavaScript |
 
-### 🎨 Design & Multimedia
-
-`Graphic Design` • `Canva` • `Video Editing` • `2D Game Asset Development`
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧁 Sugar N Butter Bakery Portal
+## 🧁 Sugar N Butter Bakery
 
-### Intelligent Order & Business Automation System
+### Intelligent Bakery Order & Automation System
 
-🔹 Developed an automated workflow for managing bakery orders.
+A modern bakery platform designed to automate order management and customer communication.
 
-🔹 Integrated multiple tools to automate:
+### ✨ Features
 
-* 🛒 Order Management
-* 📊 Order Tracking
-* 📧 Automated Customer Notifications
-* 🗂️ Google Sheets Data Management
-* ⚙️ n8n Workflow Automation
+- 🛒 Automated Order Management
+- 📊 Order Tracking System
+- 📧 Automated Customer Email Notifications
+- 🗂️ Google Sheets Integration
+- ⚙️ n8n Workflow Automation
+- 🔗 Webhook-Based Communication
 
-**Tech Stack:**
+**Tech Stack**
 
-`n8n` • `Google Sheets` • `Gmail` • `Webhooks` • `HTML/CSS/JavaScript`
+`n8n` `Google Sheets` `Gmail` `Webhooks` `HTML` `CSS` `JavaScript`
 
-🔗 **GitHub:**
-https://github.com/mtahaarshad03-bit
+<div align="center">
+
+<a href="https://github.com/mtahaarshad03-bit">
+<img src="https://img.shields.io/badge/View_Project_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -107,22 +153,27 @@ https://github.com/mtahaarshad03-bit
 
 ### Automated Assessment & Certification Workflow
 
-An automation system designed to simplify the quiz and certificate generation process.
+An intelligent automation system designed to simplify quiz processing and certificate generation.
 
-### Features
+### ✨ Features
 
-* 📝 Automated Quiz Processing
-* 🧮 Dynamic Score Calculation
-* 📄 Automated Certificate Generation
-* 📧 Instant Certificate Email Delivery
-* ⚙️ Workflow Automation
+- 📝 Automated Quiz Processing
+- 🧮 Dynamic Score Calculation
+- 📄 Automated Certificate Generation
+- 📧 Instant Email Delivery
+- ⚙️ End-to-End Workflow Automation
 
-**Tech Stack:**
+**Tech Stack**
 
-`n8n` • `Python` • `Google Sheets` • `PDF Generation` • `Email Automation`
+`n8n` `Python` `Google Sheets` `PDF Automation` `Email Automation`
 
-🔗 **GitHub:**
-https://github.com/mtahaarshad03-bit
+<div align="center">
+
+<a href="https://github.com/mtahaarshad03-bit">
+<img src="https://img.shields.io/badge/View_Project_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -130,84 +181,70 @@ https://github.com/mtahaarshad03-bit
 
 ### Cricket Data Analysis & Predictive Insights
 
-A data-focused project exploring cricket datasets to generate meaningful insights.
+A data-focused project built to analyze cricket datasets and extract meaningful insights.
 
-### Key Work
+### ✨ Key Work
 
-* 📊 Data Cleaning & Processing
-* 🐼 Data Analysis using Pandas
-* 📈 Data Visualization
-* 🤖 Predictive Analysis
-* 🔍 Insights Extraction
+- 📊 Data Cleaning & Processing
+- 🐼 Data Analysis with Pandas
+- 📈 Data Visualization
+- 🤖 Predictive Analysis
+- 🔍 Insight Extraction
 
-**Tech Stack:**
+**Tech Stack**
 
-`Python` • `Pandas` • `Data Analysis` • `Machine Learning`
-
-🔗 **GitHub:**
-https://github.com/mtahaarshad03-bit
-
----
-
-# 📈 GitHub Analytics
+`Python` `Pandas` `Data Analytics` `Machine Learning`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mtahaarshad03-bit&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Muhammad Taha's GitHub Stats" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mtahaarshad03-bit&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahaarshad03-bit&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
----
-
-# 🎯 What I'm Currently Working On
-
-* 🤖 Advanced **AI Agents & Agentic Workflows**
-* ⚙️ Business Process Automation using **n8n**
-* 🐍 Python Automation Projects
-* 📊 Data Analytics & Machine Learning
-* 🌐 Full-Stack Web Applications
-* 🔗 API & Database Integrations
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### 💼 LinkedIn
-
-<a href="https://www.linkedin.com/in/muhammad-taha-807a39404/">
-  <img src="https://img.shields.io/badge/Muhammad%20Taha-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-### 💻 GitHub
 
 <a href="https://github.com/mtahaarshad03-bit">
-  <img src="https://img.shields.io/badge/mtahaarshad03--bit-Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Project_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### 📧 Email
-
-**[mtaha22220@gmail.com](mailto:mtaha22220@gmail.com)**
+</div>
 
 ---
 
-### 💬 Open to collaborations, AI automation projects, internships, freelance opportunities, and innovative ideas.
+# 📊 GitHub Statistics
 
-<br>
+<div align="center">
 
-⭐ **If you like my work, consider exploring my repositories and connecting with me!**
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=mtahaarshad03-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahaarshad03-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=mtahaarshad03-bit&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mtahaarshad03-bit&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+```text
+🤖 Advanced AI Agents
+⚙️ Intelligent Workflow Automation
+🐍 Python Automation
+📊 Data Analytics
+🧠 Machine Learning
+🔗 API & System Integrations
+🌐 AI-Powered Web Applications
